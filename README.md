@@ -1,5 +1,5 @@
 # Beat the Market 
-Alerts in price for Bitcoin
+Alerts in price for Bitcoin.
 Hi, I would like to create an App just for sms alerts with Bitcoin prices 
 Determine at what price I want the alert to be sent to my phone via text message. 
 If there is some one that can help with this I will really appreciate it 
